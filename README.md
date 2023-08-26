@@ -7,7 +7,7 @@ Criação de DW com tabelas Fato-Dimensão em SQL - SGDB (MySQL), Querys de acor
 # Dashboard (2)
 ![Nome da Imagem](https://github.com/5lyss2s1l2ss1ndr4/dw/blob/main/dashboard_query_ex(2).png)
 # Dashboard (3)
-![Nome da Imagem](caminho/para/a/imagem.jpg)
+![Nome da Imagem](https://github.com/5lyss2s1l2ss1ndr4/dw/blob/main/dashboard_query_ex(3).png)
 # Dashboard (4)
 ![Nome da Imagem](caminho/para/a/imagem.jpg)
 # Dashboard (5)
