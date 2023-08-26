@@ -9,3 +9,4 @@ Criação de DW com tabelas Fato-Dimensão em SQL - SGDB (MySQL), Querys de acor
 ![Nome da Imagem](caminho/para/a/imagem.jpg)
 ![Nome da Imagem](caminho/para/a/imagem.jpg)
 ![Nome da Imagem](caminho/para/a/imagem.jpg)
+![Nome da Imagem](caminho/para/a/imagem.jpg)
